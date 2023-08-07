@@ -1,2 +1,5 @@
-# limitless-dapp
-Crowdfunding Rollup - A decentralized crowdfunding Dapp with low transaction fees
+# limitless-dapp 
+
+Crowdfunding OP Stack Rollup - A decentralized crowdfunding dapp running on custom dedicated OP Stack rollup 
+
+
