@@ -53,6 +53,7 @@ Layers are generally more tightly defined towards the bottom of the stack (like 
 | Parameter | Description                |
 | :-------- | :------------------------- |
 | `Network name` |Goerli Tesnet|
+| `New RPC URL` | Metamask RPC|
 | `Chain ID` |5|
 | `Currency symbol` |ETH|
 
