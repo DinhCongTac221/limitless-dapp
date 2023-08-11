@@ -40,7 +40,7 @@ Layers are generally more tightly defined towards the bottom of the stack (like 
 
 | Parameter | Description                |
 | :-------- | :------------------------- |
-| `Network name` |Limitless Crowdfunding|
+| `Network name` |Limitlesscrowd|
 | `New RPC URL` |http://rpc.testnet.limitlesscrowd.org:8545|
 | `Chain ID` |42069|
 | `Currency symbol` |ETH|
