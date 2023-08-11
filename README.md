@@ -34,7 +34,7 @@ Layers are generally more tightly defined towards the bottom of the stack (like 
 
 [Source](https://stack.optimism.io/#the-op-stack-powers-optimism)
 
-## RPC Rollup Testnet
+## RPC Rollup L2 Testnet
 
 
 
@@ -43,6 +43,17 @@ Layers are generally more tightly defined towards the bottom of the stack (like 
 | `Network name` |Limitless Crowdfunding|
 | `New RPC URL` |http://146.190.50.141:8545|
 | `Chain ID` |42069|
+| `Currency symbol` |ETH|
+
+
+## RPC L1 Goerli Testnet
+
+
+
+| Parameter | Description                |
+| :-------- | :------------------------- |
+| `Network name` |Goerli Tesnet|
+| `Chain ID` |5|
 | `Currency symbol` |ETH|
 
 
